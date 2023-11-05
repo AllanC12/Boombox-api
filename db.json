@@ -1,0 +1,92 @@
+{
+    "clients": [
+      {
+        "name": "Allan",
+        "email": "allan12@gmail.com",
+        "password": "allan",
+        "confirmPassword": "allan",
+        "id": 1
+      },
+      {
+        "name": "jose",
+        "email": "jose@gmail.com",
+        "password": "jose1212",
+        "confirmPassword": "jose1212",
+        "id": 2
+      }
+    ],
+    "tickets_portfolio": [
+      {
+        "stock": {
+          "stock": "FNAM11",
+          "name": "FINAM CI *",
+          "close": 0.37,
+          "change": 0,
+          "volume": 267007000,
+          "market_cap": null,
+          "logo": "https://s3-symbol-logo.tradingview.com/amazonia-on-es--big.svg",
+          "sector": null
+        },
+        "idUser": 1,
+        "id": 1
+      },
+      {
+        "stock": {
+          "stock": "MGLU3",
+          "name": "MAGAZINE LUIZA",
+          "close": 1.46,
+          "change": -0.68027211,
+          "volume": 157559900,
+          "market_cap": 9749649991,
+          "logo": "https://s3-symbol-logo.tradingview.com/magaz-luiza-on-nm--big.svg",
+          "sector": "Retail Trade"
+        },
+        "idUser": 1,
+        "id": 2
+      },
+      {
+        "stock": {
+          "stock": "HAPV3",
+          "name": "HAPVIDA",
+          "close": 3.74,
+          "change": -4.34782609,
+          "volume": 110735200,
+          "market_cap": 28178440218,
+          "logo": "https://s3-symbol-logo.tradingview.com/hapvida--big.svg",
+          "sector": "Health Services"
+        },
+        "idUser": 1,
+        "id": 3
+      },
+      {
+        "stock": {
+          "stock": "BHIA3",
+          "name": "CASAS BAHIA",
+          "close": 0.48,
+          "change": -4,
+          "volume": 65935100,
+          "market_cap": 1140854623,
+          "logo": "https://brapi.dev/favicon.svg",
+          "sector": "Retail Trade"
+        },
+        "idUser": 1,
+        "id": 4
+      },
+      {
+        "stock": {
+          "stock": "VALE3",
+          "name": "VALE",
+          "close": 67.57,
+          "change": 3.47625865,
+          "volume": 47989100,
+          "market_cap": 290448918649,
+          "logo": "https://s3-symbol-logo.tradingview.com/vale--big.svg",
+          "sector": "Non-Energy Minerals"
+        },
+        "idUser": 1,
+        "id": 5
+      }
+    ],
+    "tickets_saves": [],
+    "tickets_favorites": []
+  }
